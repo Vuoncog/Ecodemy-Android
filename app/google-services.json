@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193629302746",
+    "project_id": "ecodemy-c30c8",
+    "storage_bucket": "ecodemy-c30c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193629302746:android:79debf893b65a9d4411ae3",
+        "android_client_info": {
+          "package_name": "com.kltn.ecodemy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgbdprPmEKz-l6_jTM0JrklFOObfE4b8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
